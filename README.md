@@ -27,13 +27,16 @@ Feature Selection - Used User-ID,ISBN and Books-Rating for model development.
 
 Model development - Popularity based and Collaborative filtering using KNearest Neighbours and Cosine Similarity.
 
-### Results
-K-Nearest Neighbours
+## Results
+
+### K-Nearest Neighbours
+
 ![image](https://user-images.githubusercontent.com/61462986/215546961-eee7893b-ee6c-4f8d-b0dc-6efa01a4f8b2.png)
 
 ![image](https://user-images.githubusercontent.com/61462986/215547038-60e4b599-86b2-43ef-80e1-bf7b5c2b7131.png)
 
-Cosine Similarity
+### Cosine Similarity
+
 ![image](https://user-images.githubusercontent.com/61462986/215547246-dfbb5ee3-58a1-4691-8058-27e1a27ce5ca.png)
 
 ![image](https://user-images.githubusercontent.com/61462986/215547429-0e0b045a-294b-42a5-bdef-4bf4b494ed81.png)
